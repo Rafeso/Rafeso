@@ -30,3 +30,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafeso&show_icons=true&theme=dark&hide_border=true&locale=en&layout=default" alt="rafeso" />
 </div>
+
+![Snake animation](https://github.com/Rafeso/Rafeso/blob/output/github-contribution-grid-snake.svg)
