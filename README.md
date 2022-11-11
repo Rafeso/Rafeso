@@ -25,6 +25,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rafeso&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en" alt="rafeso" /></span>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafeso&theme=dark&hide_border=true" alt="rafeso" />
+</div>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafeso&show_icons=true&theme=dark&hide_border=true&locale=en&layout=default" alt="rafeso" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafeso&show_icons=true&theme=dark&hide_border=true&locale=en&layout=default" alt="rafeso" />
 </div>
