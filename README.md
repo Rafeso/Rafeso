@@ -7,6 +7,8 @@
   
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafeso&theme=darkhub" alt="rafeso" /></a> </p>
 
+<br>
+  
 - 🌱 I’m currently learning **ReactJs, React Native and NodeJs**
 
 - 💬 Ask me about **react, css, tailwindcss, styled components**
