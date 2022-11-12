@@ -2,10 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Rafael+Feitosa)](https://git.io/typing-svg)
 
 <h3 align="center">Um Padawan da tecnologia com grandes ambições de um dia ser um grande nome na aréa, atualmente estou na minha árdua caminhada em me tornar full stack, então pegue um café sinta-se a vontade e me assista evoluir<h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafeso&label=Profile%20views&color=551179&style=flat" alt="rafeso" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafeso&theme=darkhub" alt="rafeso" /></a> </p>
+  
+<br>
+  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafeso&theme=darkhub" alt="rafeso" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs, React Native and NodeJs**
 
