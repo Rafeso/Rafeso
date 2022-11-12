@@ -3,10 +3,10 @@
 
 <h3 align="center">Um Padawan da tecnologia com grandes ambições de um dia ser um grande nome na aréa, atualmente estou na minha árdua caminhada em me tornar full stack, então pegue um café sinta-se a vontade e me assista evoluir<h3>
   
-<br>
+<br> 
   
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafeso&theme=darkhub" alt="rafeso" /></a> </p>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafeso&theme=darkhub&no-frame=true&column=3&margin-w=30&margin-h=30" alt="rafeso" /></a> </p>
+  
 <br>
   
 - 🌱 I’m currently learning **ReactJs, React Native and NodeJs**
