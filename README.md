@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rafael Feitosa</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rafael+Feitosa)](https://git.io/typing-svg)
+
 <h3 align="center">Ainda estou trilhando meu caminho na área. Atualmente estou focando em desenvolvimento web, mas tenho uma grande ambição em me tornar um desenvolvedor Full Stack. Estou em constante desenvolvimento adquirindo conhecimento através de estudos, interações e colaborações com outras pessoas e colocando em prática o que aprendo.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafeso&label=Profile%20views&color=551179&style=flat" alt="rafeso" /> </p>
