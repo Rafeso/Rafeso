@@ -19,7 +19,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40"/></a></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rafeso&theme=github-dark&hide_border=true&bg_color=transparent&area=true&area_color=581c87&custom_title=Gráfico%20de%20Contribuições)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rafeso&theme=github-dark&hide_border=true&bg_color=transparent&area=true&area_color=581c87&custom_title=Gráfico%20de%20Contribuições)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align=center>
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=rafeso&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en" alt="rafeso" /></span>
